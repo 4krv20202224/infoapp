@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>радиоэлектронное оборудование</item>
+        <item>силовая установка</item>
+        <item>Система электроснабжения</item>
+
+
+    </string-array>
+
+    <string-array name="mushrooms">
+        <item>Связная радиостанция ЯДРО-1А|R-828.png|613.html</item>
+        <item>Радиостанция Р-828|yadro.png|614.html</item>
+    </string-array>
+
+    <string-array name="medicinal_herbs">
+        <item>Силовая установка|sil_yst.jpg|41.html</item>
+        <item>Бортовая вспомогательная силовая установка|vspm.jpg|43.html</item>
+        <item>Главный редуктор и трансмиссия|transm.jpg|45.html</item>
+    </string-array>
+
+    <string-array name="trees">
+        <item>Первичная система электроснабжения|mi8elektr.jpg|711.html</item>
+        <item>Вторичная система электроснабжения|mi8elektr.jpg|712.html</item>
+        <item>Управление системой энергоснабжения|mi8elektr.jpg|713.html</item>
+    </string-array>
+
+
+
+
+</resources>
